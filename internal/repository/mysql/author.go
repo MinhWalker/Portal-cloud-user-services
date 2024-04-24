@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/bxcodec/go-clean-arch/domain"
+	"github.com/minhwalker/portal-cloud-user-services/domain"
 )
 
 type AuthorRepository struct {

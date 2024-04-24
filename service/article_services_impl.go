@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/bxcodec/go-clean-arch/domain"
+	"github.com/minhwalker/portal-cloud-user-services/domain"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/sync/errgroup"
 )

@@ -1,4 +1,4 @@
-module github.com/bxcodec/go-clean-arch
+module github.com/minhwalker/portal-cloud-user-services
 
 go 1.20
 

@@ -12,12 +12,12 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/labstack/echo/v4"
 
-	mysqlRepo "github.com/bxcodec/go-clean-arch/internal/repository/mysql"
+	mysqlRepo "github.com/minhwalker/portal-cloud-user-services/internal/repository/mysql"
 
-	"github.com/bxcodec/go-clean-arch/internal/rest"
-	"github.com/bxcodec/go-clean-arch/internal/rest/middleware"
-	"github.com/bxcodec/go-clean-arch/service"
 	"github.com/joho/godotenv"
+	"github.com/minhwalker/portal-cloud-user-services/internal/rest"
+	"github.com/minhwalker/portal-cloud-user-services/internal/rest/middleware"
+	"github.com/minhwalker/portal-cloud-user-services/service"
 )
 
 const (

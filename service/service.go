@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"github.com/bxcodec/go-clean-arch/domain"
+	"github.com/minhwalker/portal-cloud-user-services/domain"
 )
 
 // ArticleRepository represent the article's repository contract

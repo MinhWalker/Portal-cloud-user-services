@@ -16,9 +16,9 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/bxcodec/go-clean-arch/domain"
-	"github.com/bxcodec/go-clean-arch/internal/rest"
-	"github.com/bxcodec/go-clean-arch/internal/rest/mocks"
+	"github.com/minhwalker/portal-cloud-user-services/domain"
+	"github.com/minhwalker/portal-cloud-user-services/internal/rest"
+	"github.com/minhwalker/portal-cloud-user-services/internal/rest/mocks"
 )
 
 func TestFetch(t *testing.T) {
